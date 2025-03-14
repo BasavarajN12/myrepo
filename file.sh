@@ -1,1 +1,2 @@
-echo " hello everyone"   >> textfile
+echo " hello everyone"   >> textfile  
+gfhgdgdg
